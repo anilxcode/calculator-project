@@ -13,6 +13,34 @@ Enter two numbers: 5 6
 Result: 11
 
 
-## ✅ Features
-- Simple terminal-based interface
-- Clean and beginner-friendly code
+
+## 🛠 Tech Stack
+
+- *Language:* C++
+- *Compiler:* GCC
+- *Platform:* Terminal / Command Line
+
+
+
+## ✨ Features
+
+- 🖥 Simple terminal-based interface  
+- 👶 Beginner-friendly code  
+- 📦 Lightweight and fast execution  
+
+---
+
+## 🔮 Future Improvements
+
+- Add GUI using Qt or SFML  
+- Add modulus, power, and square root functions  
+- Implement input validation and error handling  
+
+
+
+## 👤 Author
+
+- *Anil Kumar*  
+- GitHub: [@anilxcode](https://github.com/anilxcode)
+
+
